@@ -34,4 +34,4 @@ I'm lazy to make a service CLI interface :P
 
 ## Retrieving JSON data
 
-Use your favorite web server to retrieve the file and use it or maybe even javascript to parse the JSON. Your call.
+data is stored within a .json file named starbound_data.json. It will be in the specified output directory. Use your favorite web server to retrieve the file and use it or maybe even javascript to parse the JSON. Your call.
