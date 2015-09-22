@@ -25,7 +25,7 @@ or
 ```
 
 Either should work. You shouldn't need superuser privileges unless you are planning to write
-the log to a protected folder. I recommend using stdin to log any fatal errors just in case.
+the log to a protected folder. I recommend using stdout to log any fatal errors just in case.
 
 ## Killing the process
 
